@@ -41,7 +41,7 @@ Task 12
 Script that prints the type of the file with a name.
 
 Task 13
-Script that creates a symboluc link.
+Script that creates a symbolic link.
 
 Task 14
 Script that copies all the html files from the current working directory to the parent of the working, but only copy files that did not exit in the parent of the working directory or were newer than the versions in the parent of the working directory.
