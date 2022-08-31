@@ -2,7 +2,7 @@ Task 0
 Script that prints absolute path name of the currentworking directory.
 
 Task 1
-Display the contents list of your directory.
+Script that displays the contents list of your directory.
 
 Task 2
 Script that changes the working directory to the user's home directory.
@@ -14,31 +14,31 @@ Task 4
 Script that displays contents, including files (starting with .)
 
 Task 5
-Display current directory contents:
+Script that displays current directory contents:
 >long format.
 >with user and groups IDs displayed numerically.
 >And hidden files (starting with .)
 
 Task 6
-Script that creates a directory named.
+Script that creates a directory.
 
 Task 7
-script to move file.
+Script to move file.
 
 Task 8
-script to delete file.
+Script to delete file.
 
 Task 9
 Delete the directory.
 
 Task 10
-script that changes the working directory to the previous one.
+Script that changes the working directory to the previous one.
 
 Task 11
 Write that list all files in the current directory and the parent of the working directoy in long format.
 
 Task 12
-script that prints the type of the file with a name.
+Script that prints the type of the file with a name.
 
 Task 13
 Script that creates a symboluc link.
