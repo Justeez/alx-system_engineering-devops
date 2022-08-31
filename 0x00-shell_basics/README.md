@@ -1,5 +1,5 @@
 Task 0
-Script that prints absolute path name of the currentworking directory.
+Script that prints absolute path name of the current working directory.
 
 Task 1
 Script that displays the contents list of your directory.
