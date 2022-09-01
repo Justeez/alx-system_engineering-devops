@@ -15,3 +15,9 @@ Script that creates an empty file.
 
 Task 5
 Script that adds execute permission to the owner of file.
+
+Task 6
+Script that adds execute permission to the owner and the group owner, and read permission to the users of a file.
+
+Task 7
+Script that adds excetion permission to the owner, the group owner and the other users, to a file.
