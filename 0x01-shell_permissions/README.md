@@ -12,3 +12,6 @@ Script that changes the owner of a certain file to another user.
 
 Task 4
 Script that creates an empty file.
+
+Task 5
+Script that adds execute permission to the owner of file.
