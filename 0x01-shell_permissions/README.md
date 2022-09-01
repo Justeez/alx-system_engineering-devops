@@ -34,8 +34,23 @@ Script that sets the mode of a file as the same as another file.
 Task 11
 Script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 
+Tasks 12
+Script that creates a directory with permissions 751 in the working directory.
 
+Task 13
+Script that changes the group owner to school for a file.
 
+Task 14
+Script that changes the owner, the group owner and all files and directories in the working directory. 
+
+Task 15
+Script that changes the owner and the group owner of file1 to file1 and file3 respectively.
+
+Task 16
+Script that changes the owner of file1 to file2 only if it is owned by the user file3.
+
+Task 17
+Script that will play the StarWars IV episode in the terminal.
 
 
 
