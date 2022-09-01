@@ -24,3 +24,6 @@ Script that adds exeCUtion permission to the owner, the group owner and the othe
 
 Task 8
 Script that sets all permission to other users.
+
+Task 9
+Script that sets the mode of a file.
