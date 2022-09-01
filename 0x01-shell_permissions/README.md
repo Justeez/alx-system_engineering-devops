@@ -20,4 +20,7 @@ Task 6
 Script that adds execute permission to the owner and the group owner, and read permission to the users of a file.
 
 Task 7
-Script that adds excetion permission to the owner, the group owner and the other users, to a file.
+Script that adds exeCUtion permission to the owner, the group owner and the other users, to a file.
+
+Task 8
+Script that sets all permission to other users.
