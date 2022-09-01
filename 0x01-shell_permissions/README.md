@@ -30,3 +30,34 @@ Script that sets the mode of a file.
 
 Task 10
 Script that sets the mode of a file as the same as another file.
+
+Task 11
+Script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
