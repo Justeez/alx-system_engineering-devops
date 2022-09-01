@@ -6,3 +6,6 @@ Script that prints the effective username of the current user.
 
 Task 2
 Script that prints all groups the current user is part of.
+
+Task 3
+Script that changes the owner of a certain file to another user.
