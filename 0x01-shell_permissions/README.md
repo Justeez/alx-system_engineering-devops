@@ -27,3 +27,6 @@ Script that sets all permission to other users.
 
 Task 9
 Script that sets the mode of a file.
+
+Task 10
+Script that sets the mode of a file as the same as another file.
