@@ -9,3 +9,6 @@ Script that prints all groups the current user is part of.
 
 Task 3
 Script that changes the owner of a certain file to another user.
+
+Task 4
+Script that creates an empty file.
